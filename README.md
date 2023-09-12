@@ -1,4 +1,6 @@
-### Hi there 👋
+## Yo 👋
+
+### I'm Fullstack developer, experience with web development in general, mainly in API's & Backend.
 
 <!--START_SECTION:waka-->
 
