@@ -1,6 +1,6 @@
 ## Yo 👋
 
-### I'm Fullstack developer, experience with web development in general.
+**React, Node, Go, TypeScript & Python developer.**
 
 <!--START_SECTION:waka-->
 
