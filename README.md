@@ -1,6 +1,6 @@
 ## Yo 👋
 
-**React, Node, Go, TypeScript & Python developer.**
+**React, Node, Go, TypeScript, C# & Python developer.**
 
 <!--START_SECTION:waka-->
 
