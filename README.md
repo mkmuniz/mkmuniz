@@ -1,6 +1,6 @@
 ## Yo 👋
 
-**React, Node, Go, TypeScript, C# & Python developer.**
+**React, Node, Go, TypeScript & Python developer**
 
 <!--START_SECTION:waka-->
 
@@ -15,3 +15,6 @@ JSON         40 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/mikael-muniz-ribeiro-5764961a3/)https://www.linkedin.com/in/mikael-muniz-ribeiro-5764961a3/) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mikaelmuniz2001@gmail.com)
