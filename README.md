@@ -16,5 +16,7 @@ JSON         40 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/mikael-muniz-ribeiro-5764961a3/)https://www.linkedin.com/in/mikael-muniz-ribeiro-5764961a3/) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mikaelmuniz2001@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mikaelmuniz2001@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=)](https://www.linkedin.com/in/mikael-muniz-ribeiro-5764961a3/)
+[![Linktree Badge](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/mkmuniz)
+
