@@ -1,6 +1,6 @@
 ## Yo 👋
 
-**TypeScript, Java, Go, Node.js Developer**
+**TypeScript, Go, Java Developer**
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mikaelmuniz2001@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=)](https://www.linkedin.com/in/mikael-muniz-ribeiro/)
