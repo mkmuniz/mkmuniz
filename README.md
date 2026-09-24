@@ -4,7 +4,7 @@
 
 # Mikael Muniz
 
-**`software engineer`** · são paulo, br
+**`software & ai engineer`** · são paulo, br
 
 [![Website](https://img.shields.io/badge/mkmuniz.dev-FFFFFF?style=flat-square&logo=googlechrome&logoColor=39C5BB&labelColor=FFFFFF)](https://mkmuniz.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-39C5BB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-muniz-ribeiro/)
@@ -15,9 +15,32 @@
 
 <br>
 
-I build things in **TypeScript** — React and Next.js on the front, Node and
-NestJS on the back — and reach for **Go** when it has to be small and fast, or
-**Java** when the job calls for it. Based in São Paulo.
+I build product in **TypeScript** — React and Next.js on the front, Node and
+NestJS on the back — and reach for **Go** when it has to be small and fast.
+The other half of my work is **AI infrastructure**: the plumbing that makes
+LLM agents hold up outside of a demo. Based in São Paulo.
+
+<br>
+
+### ♪ ai
+
+[![Anthropic](https://img.shields.io/badge/claude-39C5BB?style=flat-square&logo=anthropic&logoColor=white)](#)
+[![Codex](https://img.shields.io/badge/codex-39C5BB?style=flat-square&logoColor=white)](#)
+[![Copilot](https://img.shields.io/badge/copilot-39C5BB?style=flat-square&logo=githubcopilot&logoColor=white)](#)
+[![MCP](https://img.shields.io/badge/MCP-39C5BB?style=flat-square&logo=modelcontextprotocol&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/rust-39C5BB?style=flat-square&logo=rust&logoColor=white)](#)
+
+- **Providers & auth** — subscription-backed connectors for Codex/ChatGPT and
+  GitHub Copilot, OAuth device-code flows, credential state stores
+- **Agent runtime** — streaming and cancellation on the provider trait, model
+  routing with per-mode overrides, tool-authority policy on fallback paths
+- **Multi-agent** — Cabinet deliberation with per-persona provider selection
+- **MCP** — control-plane scope gating and JSON-RPC proxying
+- **Context engineering** — cutting token waste with `$PATH` shims, MCP proxies
+  and extractive summarisation
+
+Mostly **Rust** and **TypeScript**, across `bastion-agent` / `bastion-core` and
+my own tooling.
 
 <br>
 
@@ -25,7 +48,7 @@ NestJS on the back — and reach for **Go** when it has to be small and fast, or
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs&theme=light" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS">
 
-<img src="https://skillicons.dev/icons?i=go,java,python,rust,vue,cpp&theme=light" alt="Go, Java, Python, Rust, Vue, C++">
+<img src="https://skillicons.dev/icons?i=rust,go,java,python,vue,cpp&theme=light" alt="Rust, Go, Java, Python, Vue, C++">
 
 <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,redis,git,linux&theme=light" alt="Docker, Postgres, MongoDB, Redis, Git, Linux">
 
@@ -43,23 +66,12 @@ NestJS on the back — and reach for **Go** when it has to be small and fast, or
 
 ### ♪ now playing
 
-<table>
-<tr>
-<td width="440">
-<img src="assets/miku-player.gif" width="420" alt="Media player artwork">
-</td>
-<td valign="top">
-
 <!-- preenchido sozinho todo dia pelo workflow .github/workflows/waka-readme.yml -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-</td>
-</tr>
-</table>
-
 <br>
 
 <div align="center">
-<sub>artwork by unknown artists, found via Pinterest — happy to credit properly if you know the source</sub>
+  <img src="assets/miku-player.gif" width="460" alt="Media player artwork">
 </div>
