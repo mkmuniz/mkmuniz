@@ -4,7 +4,7 @@
 
 # Mikael Muniz
 
-**`software & ai engineer`** · são paulo, br
+**`senior software & ai engineer`** · são paulo, br
 
 [![Website](https://img.shields.io/badge/mkmuniz.dev-FFFFFF?style=flat-square&logo=googlechrome&logoColor=39C5BB&labelColor=FFFFFF)](https://mkmuniz.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-39C5BB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-muniz-ribeiro/)
