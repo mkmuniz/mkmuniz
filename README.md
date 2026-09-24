@@ -35,12 +35,9 @@ NestJS on the back — and reach for **Go** when it has to be small and fast, or
 
 | | | |
 |:--|:--|:--|
-| [**BrightFlow**](https://github.com/mkmuniz/BrightFlow) `★7` | TypeScript | Dashboard for managing energy-bill data |
-| [**FastPix**](https://github.com/mkmuniz/FastPix) `★7` | Java | Generating and managing Pix payments |
-| [**Mikael-Portfolio**](https://github.com/mkmuniz/Mikael-Portfolio) | Vue | Projects and career, in one place |
-| [**FinTrack**](https://github.com/mkmuniz/FinTrack) | Go | Personal finance tracking |
-| [**mira-discord-bot**](https://github.com/mkmuniz/mira-discord-bot) | TypeScript | Discord bot |
-| [**elagix-tk**](https://github.com/mkmuniz/elagix-tk) | Rust | Toolkit experiments |
+| [**elagix-tk**](https://github.com/mkmuniz/elagix-tk) | Rust | Cuts token waste in coding-agent sessions — a `$PATH` shim for shell commands, a JSON-RPC proxy for MCP tools, extractive summarisation for prose |
+| [**mira-discord-bot**](https://github.com/mkmuniz/mira-discord-bot) | TypeScript | Mira, a matchmaking bot for Discord — discord.js + Prisma |
+| [**bastion**](https://github.com/thewaifucorp/bastion-agent) `★7` | Rust · *contributor* | An agent for your whole life: contestable memory, explicit authority, user-owned data. 29 merged PRs across [`bastion-agent`](https://github.com/thewaifucorp/bastion-agent/pulls?q=is%3Apr+author%3Amkmuniz) and [`bastion-core`](https://github.com/thewaifucorp/bastion-core/pulls?q=is%3Apr+author%3Amkmuniz) |
 
 <br>
 
