@@ -19,9 +19,6 @@ I like open source, SaaS development, software engineering, devops,
 self-hosted infrastructure, AI agents, developer tooling, and systems you can
 still reason about after they grow.
 
-Day to day: **TypeScript** on product — React, Next.js, Node, NestJS — and
-**Rust** on agent infrastructure.
-
 <br>
 
 ### ♪ ai
