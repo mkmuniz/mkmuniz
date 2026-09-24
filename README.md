@@ -27,19 +27,34 @@ still reason about after they grow.
 [![Codex](https://img.shields.io/badge/codex-39C5BB?style=flat-square&logoColor=white)](#)
 [![Copilot](https://img.shields.io/badge/copilot-39C5BB?style=flat-square&logo=githubcopilot&logoColor=white)](#)
 [![MCP](https://img.shields.io/badge/MCP-39C5BB?style=flat-square&logo=modelcontextprotocol&logoColor=white)](#)
-[![Rust](https://img.shields.io/badge/rust-39C5BB?style=flat-square&logo=rust&logoColor=white)](#)
+[![Bedrock](https://img.shields.io/badge/bedrock-39C5BB?style=flat-square&logoColor=white)](#)
+[![SageMaker](https://img.shields.io/badge/sagemaker-39C5BB?style=flat-square&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/pytorch-39C5BB?style=flat-square&logo=pytorch&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/transformers-39C5BB?style=flat-square&logo=huggingface&logoColor=white)](#)
 
-- **Providers & auth** — subscription-backed connectors for Codex/ChatGPT and
-  GitHub Copilot, OAuth device-code flows, credential state stores
+<img src="https://skillicons.dev/icons?i=aws,pytorch,tensorflow,sklearn,py,rust&theme=light" alt="AWS, PyTorch, TensorFlow, scikit-learn, Python, Rust">
+
+- **AI architecture** — provider routing and fallback, cost and latency budgets,
+  guardrails, human-in-the-loop checkpoints, and drawing the line on where data
+  is allowed to go
+- **Agent development** — tool design, planning loops, memory, delegation and
+  long-running sessions
 - **Agent runtime** — streaming and cancellation on the provider trait, model
   routing with per-mode overrides, tool-authority policy on fallback paths
 - **Multi-agent** — Cabinet deliberation with per-persona provider selection
+- **Providers & auth** — subscription-backed connectors for Codex/ChatGPT and
+  GitHub Copilot, OAuth device-code flows, credential state stores
 - **MCP** — control-plane scope gating and JSON-RPC proxying
 - **Context engineering** — cutting token waste with `$PATH` shims, MCP proxies
   and extractive summarisation
+- **Machine learning** — RAG end to end (chunking, embeddings, vector search,
+  reranking), fine-tuning (LoRA, SFT), training models from scratch, plus evals
+  and LLM observability in production
+- **AWS** — Bedrock (Knowledge Bases, Guardrails), SageMaker (training,
+  fine-tuning, inference endpoints), Textract, Comprehend, Rekognition,
+  Transcribe, Polly
 
-Mostly **Rust** and **TypeScript**, across `bastion-agent` / `bastion-core` and
-my own tooling.
+Mostly **Rust**, **TypeScript** and **Python**.
 
 <br>
 
