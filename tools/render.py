@@ -223,7 +223,7 @@ def main():
     n, size = 36, 400
     frames, masks = [], []
     for i in range(n):
-        rgb, cov = frame(size, 2 * math.pi * i / n, i / n, tex, zoom=38)
+        rgb, cov = frame(size, 2 * math.pi * i / n, i / n, tex, zoom=34)
         frames.append(rgb)
         masks.append(cov < 0.45)
         print(f"  frame {i + 1}/{n}", end="\r")

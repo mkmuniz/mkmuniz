@@ -119,9 +119,27 @@ def build():
     return "\n".join(o)
 
 
+def palette_strip():
+    """Barra de cores no estilo neofetch, com a paleta real do header."""
+    cols = [TEAL, ICE, AMBER, RED, DIM, WHITE]
+    w, h, gap = 34, 13, 5
+    tw = len(cols) * (w + gap) - gap
+    o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{tw}" height="{h}" '
+         f'viewBox="0 0 {tw} {h}" role="img" aria-label="paleta: teal, ice, amber, red, dim, white">']
+    for i, c in enumerate(cols):
+        o.append(f'<rect x="{i * (w + gap)}" y="0" width="{w}" height="{h}" fill="{c}">'
+                 f'<animate attributeName="opacity" values="1;.45;1" dur="3.2s" '
+                 f'begin="{i * 0.26}s" repeatCount="indefinite"/></rect>')
+    o.append('</svg>')
+    return "".join(o)
+
+
 if __name__ == "__main__":
     import os, sys
     dst = sys.argv[1] if len(sys.argv) > 1 else os.path.join(
         os.path.dirname(os.path.abspath(__file__)), "..", "assets", "header.svg")
     open(dst, "w").write(build())
     print("header ->", os.path.abspath(dst))
+    pal = os.path.join(os.path.dirname(dst), "palette.svg")
+    open(pal, "w").write(palette_strip())
+    print("palette ->", os.path.abspath(pal))

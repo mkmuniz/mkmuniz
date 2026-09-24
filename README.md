@@ -19,9 +19,8 @@
        Location   São Paulo, BR
        Wired to   Lain · Miku · Ellen Joe
        Avatar     rendered by ./tools/render.py
-
-       ███ ███ ███ ███ ███ ███
 </pre>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/palette.svg" width="230" alt="Palette: teal, ice, amber, red, dim, white"></p>
 </td>
 </tr>
 </table>
@@ -123,6 +122,7 @@ Three files, no external service:
 tools/skin.py     →  assets/mkmuniz-skin.png   64×64, a real Minecraft skin
 tools/render.py   →  assets/mkmuniz-3d.gif     36 frames, 360° turnaround
 tools/header.py   →  assets/header.svg         the animated banner up top
+                  →  assets/palette.svg        the neofetch colour strip
 ```
 
 **`skin.py`** draws every face of the character as text. No image editor — the
