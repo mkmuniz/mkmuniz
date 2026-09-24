@@ -15,10 +15,12 @@
 
 <br>
 
-I build product in **TypeScript** — React and Next.js on the front, Node and
-NestJS on the back — and reach for **Go** when it has to be small and fast.
-The other half of my work is **AI infrastructure**: the plumbing that makes
-LLM agents hold up outside of a demo. Based in São Paulo.
+I like open source, SaaS development, software engineering, devops,
+self-hosted infrastructure, AI agents, developer tooling, and systems you can
+still reason about after they grow.
+
+Day to day: **TypeScript** on product — React, Next.js, Node, NestJS — and
+**Rust** on agent infrastructure.
 
 <br>
 
