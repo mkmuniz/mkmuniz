@@ -16,8 +16,8 @@
 <br>
 
 I like open source, SaaS development, software engineering, devops,
-self-hosted infrastructure, AI agents, developer tooling, and systems you can
-still reason about after they grow.
+self-hosted infrastructure, AI agents, developer tooling, and explaining to
+those agents — very patiently — why they may not `rm -rf /`.
 
 <br>
 
