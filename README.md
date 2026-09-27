@@ -60,23 +60,28 @@ Mostly **Rust**, **TypeScript** and **Python**.
 
 ### ♪ stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs&theme=light" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS">
+**working in now**
 
-<img src="https://skillicons.dev/icons?i=rust,go,java,python,vue,cpp&theme=light" alt="Rust, Go, Java, Python, Vue, C++">
+<img src="https://skillicons.dev/icons?i=rust,go,cpp,ts,python,docker&theme=light" alt="Rust, Go, C++, TypeScript, Python, Docker">
 
-<img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,redis,git,linux&theme=light" alt="Docker, Postgres, MongoDB, Redis, Git, Linux">
+**also worked with**
 
-<br>
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,nestjs,vue&theme=light" alt="JavaScript, React, Next.js, Node.js, NestJS, Vue">
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis,linux&theme=light" alt="Java, Spring, Postgres, MongoDB, Redis, Linux">
 
 ### ♪ projects
 
 | | | |
 |:--|:--|:--|
-| [**elagix-tk**](https://github.com/mkmuniz/elagix-tk) | Rust | Cuts token waste in coding-agent sessions — a `$PATH` shim for shell commands, a JSON-RPC proxy for MCP tools, extractive summarisation for prose |
+| [**schliffe-tk**](https://github.com/mkmuniz/schliffe-tk) | Rust | Cuts the noise out of what AI coding agents read — command output, MCP results, images — without hiding what matters. Same commands, no prefix, originals always recoverable |
+| [**nadzor**](https://github.com/mkmuniz/nadzor) | Go | Keeps secrets and Brazilian PII out of agent context, logs, code and CI. Offline check-digit validation for CPF, CNPJ, CNH, Pix keys and card PAN — no network calls |
+| [**Atelier-33**](https://github.com/mkmuniz/Atelier-33) | C++ | Picto & lumina build optimizer for *Clair Obscur: Expedition 33* — in-game overlay reading your live build straight from memory |
+| [**Repertoire-33**](https://github.com/mkmuniz/Repertoire-33) | C++ | Runtime boss music swapper for *Clair Obscur: Expedition 33* — in-game overlay, no `.pak` edits, vanilla until you say so |
 | [**mira-discord-bot**](https://github.com/mkmuniz/mira-discord-bot) | TypeScript | Mira, a matchmaking bot for Discord — discord.js + Prisma |
-| [**bastion**](https://github.com/thewaifucorp/bastion-agent) `★7` | Rust · *contributor* | An agent for your whole life: contestable memory, explicit authority, user-owned data. 29 merged PRs across [`bastion-agent`](https://github.com/thewaifucorp/bastion-agent/pulls?q=is%3Apr+author%3Amkmuniz) and [`bastion-core`](https://github.com/thewaifucorp/bastion-core/pulls?q=is%3Apr+author%3Amkmuniz) |
 
-<br>
+Also a contributor to [**bastion**](https://github.com/thewaifucorp/bastion-agent) `★7` — 29 merged PRs across
+[`bastion-agent`](https://github.com/thewaifucorp/bastion-agent/pulls?q=is%3Apr+author%3Amkmuniz) and [`bastion-core`](https://github.com/thewaifucorp/bastion-core/pulls?q=is%3Apr+author%3Amkmuniz).
 
 ### ♪ now playing
 
