@@ -16,8 +16,8 @@
 <br>
 
 I like open source, SaaS development, software engineering, devops,
-self-hosted infrastructure, AI agents, developer tooling, and explaining to
-those agents — very patiently — why they may not `rm -rf /`.
+self-hosted infrastructure, AI agents, developer tooling, games, anime (i love Bleach and One Piece) and explaining to
+those agents — very patiently — TO NOT BE PROLIX.
 
 <br>
 
