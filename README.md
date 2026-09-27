@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/mkmuniz.dev-FFFFFF?style=flat-square&logo=googlechrome&logoColor=39C5BB&labelColor=FFFFFF)](https://mkmuniz.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-39C5BB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-muniz-ribeiro/)
-[![Gmail](https://img.shields.io/badge/gmail-39C5BB?style=flat-square&logo=gmail&logoColor=white)](mailto:mikaelmuniz2001@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-39C5BB?style=flat-square&logo=gmail&logoColor=white)](mailto:mikael.muniz@mkmuniz.dev)
 [![Linktree](https://img.shields.io/badge/linktree-39C5BB?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/mkmuniz)
 
 </div>
